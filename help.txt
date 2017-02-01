@@ -1,0 +1,57 @@
+Game Overview:
+==============
++10 for the red block in red / green block in green
++10 if black block is hit by laser
+-5 if block colour doesn't match with box color
+
+Game Ends:
+==========
+If black block falls in any of the boxes
+             (or)
+If green or red blocks hit by laser more than five times
+
+GAME Controls:
+==============
+
+GUN:
+====
+Keyboard:
+w  - move up
+s  - move Down
+Up - rotate gun upwards
+Down - rotate gun downwards
+Space - fire laser
+
+Mouse:
+left click - fire laser in the direction/drag the gun along y axis
+
+
+RED Basket:
+===========
+keyboard:
+Right Control+Right/Left - move along x axis
+
+Mouse:
+Left click - drag the basket along x axis
+
+Green Basket:
+=============
+keyboard:
+RIght Alt + Right/Left - move along x axis
+
+Mouse:
+Left click - drag the basket along x axis
+
+Zoom/Pan Controls:
+=================
+Mouse Scroll - Zoom in or out
+Right click - drag along x for panning
+PLUS - Zoom in
+Minus - Zoom out
+a - Pan left
+d - Pan right
+
+Blocks Controls:
+================
+n - decrease the speed of blocks
+m - increase the speed of blocks

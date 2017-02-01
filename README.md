@@ -1,3 +1,4 @@
-# Brick_Game
-
-This is a sample game made with GLFW
+Compiling instructions:
+$make
+Running instructtions:
+$./sample2D
